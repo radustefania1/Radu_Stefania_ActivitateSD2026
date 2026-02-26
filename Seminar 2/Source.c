@@ -125,6 +125,7 @@ int main() {
 	printf("\n ultima:\n");
 	afisare(getPrimulElementConditionat(filme,nrFilme, "Dune"));
 
-	dezAlocare(&filme, &nrFilme); 
+	dezalocare(&filme, &nrFilme); 
 	return 0;
+
 }
