@@ -1,0 +1,4 @@
+﻿  Seminar 1.c
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 1\Seminar 1.c(16,38): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 1\Seminar 1.c(17,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Seminar 1.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 1\x64\Debug\Seminar 1.exe
