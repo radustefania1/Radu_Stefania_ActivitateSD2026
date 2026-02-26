@@ -1,0 +1,7 @@
+﻿  Source.c
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 2\Source.c(16,23): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 2\Source.c(17,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 2\Source.c(80,8): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 2\Source.c(90,52): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 2\Source.c(101,48): warning C4305: 'function': truncation from 'double' to 'float'
+  Seminar 2.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 2\x64\Debug\Seminar 2.exe
