@@ -11,7 +11,7 @@ struct Joc {
 
 struct Joc initializare(int _id, int _NumarJucatoriMin, char* _Denumire, float _Pret, char _Rating) {
 	struct Joc s;
-	s.id = _id;
+	s.id = 1;
 	s.NumarJucatoriMin = _NumarJucatoriMin;
 	s.Denumire = malloc(sizeof(char) * (strlen(_Denumire) + 1));
 	strcpy(s.Denumire, _Denumire);
