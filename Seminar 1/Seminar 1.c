@@ -36,7 +36,9 @@ void modifica_Denumire(struct Joc* s, char* _den) {
 }
 
 void dezalocare(struct Joc* s) {
-	free(s->Denumire);
+	if (s->denumire != NULL) {
+		free(s->denumire);
+	}
 }
 
 float calcPretIndividual(struct Joc s) {
