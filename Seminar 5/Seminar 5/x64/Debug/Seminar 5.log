@@ -1,0 +1,4 @@
+﻿  Seminar 5.c
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 5\Seminar 5.c(42,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 5\Seminar 5.c(119,1): warning C4715: 'citireLDMasiniDinFisier': not all control paths return a value
+  Seminar 5.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 5\x64\Debug\Seminar 5.exe
