@@ -1,0 +1,7 @@
+﻿  Seminar.c
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 6\Seminar.c(28,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 6\Seminar.c(63,1): warning C4716: 'popStack': must return a value
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 6\Seminar.c(73,1): warning C4716: 'citireStackMasiniDinFisier': must return a value
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 6\Seminar.c(67,1): warning C4716: 'emptyStack': must return a value
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 6\Seminar.c(81,1): warning C4716: 'size': must return a value
+  Seminar 6.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 6\x64\Debug\Seminar 6.exe
