@@ -1,0 +1,2 @@
+﻿Seminar 7.obj : error LNK2019: unresolved external symbol inserareaMasinaInTabela referenced in function citireMasiniDinFisier
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\seminar 7\x64\Debug\seminar 7.exe : fatal error LNK1120: 1 unresolved externals
