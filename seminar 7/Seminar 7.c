@@ -120,7 +120,7 @@ HashTable citireMasiniDinFisier(const char* numeFisier) {
 	HashTable ht = initializareHashTable(5);
 	while (!feof(f)) {
 		Masina masina = citireMasinaDinFisier(f);
-		inserareaMasinaInTabela(ht, masina);
+		inserareMasinaInTabela(ht, masina);
 	}
 	fclose(f);
 
@@ -155,7 +155,7 @@ void dezalocareTabelaDeMasini(HashTable *ht) {
 			}
 		}
 	}
-	frere(ht->lista);
+	free(ht->lista);
 	ht->dim = 0;
 	ht->lista = NULL;
 }
@@ -219,7 +219,7 @@ Masina getMasinaById(HashTable ht, int id) {
 }
 
 int main() {
-	HashTable ht = citireMasiniDinFisier("masini.txt");
+	HashTable ht = citireMasiniDinFisier("Masinile.txt");
 	afisareTabelaDeMasini(ht);
 	afisareMasina(getMasinaById(ht, 3));
 	int nrClustere;
