@@ -162,7 +162,7 @@ void stergeMasinaDupaID(ListaDubla* ld, int id) {
 
 	}
 	Nod* p = ld->prim;
-	while (p && p->info.id != NULL) {
+	while (p && p->info.id != id) {
 		p = p->next;
 	}
 	if (p) {
