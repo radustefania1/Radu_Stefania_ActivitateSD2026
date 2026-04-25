@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seminar 3 acasa", "seminar 3 acasa.vcxproj", "{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Debug|x64.ActiveCfg = Debug|x64
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Debug|x64.Build.0 = Debug|x64
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Debug|x86.ActiveCfg = Debug|Win32
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Debug|x86.Build.0 = Debug|Win32
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Release|x64.ActiveCfg = Release|x64
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Release|x64.Build.0 = Release|x64
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Release|x86.ActiveCfg = Release|Win32
+		{265CDE1D-EEF1-4E1E-9F4A-CB6E6269F19B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE0EEF89-7517-4215-96B6-3BEA08878286}
+	EndGlobalSection
+EndGlobal
