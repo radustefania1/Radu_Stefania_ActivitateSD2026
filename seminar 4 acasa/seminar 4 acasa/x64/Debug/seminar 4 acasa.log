@@ -1,0 +1,4 @@
+﻿  Biblioteca.c
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 4 acasa\Biblioteca.c(52,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 4 acasa\Biblioteca.c(115,8): warning C4101: 'carte': unreferenced local variable
+  seminar 4 acasa.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 4 acasa\x64\Debug\seminar 4 acasa.exe
