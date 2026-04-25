@@ -1,0 +1,10 @@
+101, Paracetamol, Zentiva, 500.0, 100, N
+102, Amoxicilina, Antibiotice SA, 1000.0, 45, D
+103, Aspirina, Bayer, 100.0, 200, N
+104, Ibuprofen, Terapia, 400.0, 120, N
+105, Xanax, Pfizer, 0.5, 30, D
+106, Vitamina C, Biofarm, 1000.0, 150, N
+107, Augmentin, GSK, 875.5, 25, D
+108, Nurofen, Reckitt, 200.0, 80, N
+109, Controloc, Takeda, 40.0, 60, D
+110, Aerius, Schering Plough, 5.0, 40, N
