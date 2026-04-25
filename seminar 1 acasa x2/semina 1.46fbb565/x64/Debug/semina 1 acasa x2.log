@@ -1,0 +1,4 @@
+﻿  Filme.c
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\semina 1 acasa x2\Filme.c(67,43): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\semina 1 acasa x2\Filme.c(81,22): warning C4305: 'function': truncation from 'double' to 'float'
+  semina 1 acasa x2.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Seminar\semina 1 acasa x2\x64\Debug\semina 1 acasa x2.exe
