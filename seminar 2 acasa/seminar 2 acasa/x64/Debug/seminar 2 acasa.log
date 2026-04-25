@@ -1,0 +1,9 @@
+﻿  Zbor.c
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\Zbor.c(77,40): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\Zbor.c(85,44): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\Zbor.c(86,46): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\Zbor.c(87,48): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\Zbor.c(88,46): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\Zbor.c(89,45): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\Zbor.c(106,7): warning C4101: 'D': unreferenced local variable
+  seminar 2 acasa.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 2 acasa\x64\Debug\seminar 2 acasa.exe
