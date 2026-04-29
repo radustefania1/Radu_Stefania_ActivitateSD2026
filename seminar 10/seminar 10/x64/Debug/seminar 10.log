@@ -1,0 +1,5 @@
+﻿  Seminar.c
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 10\Seminar.c(35,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 10\Seminar.c(192,27): warning C4047: 'function': 'Nod **' differs in levels of indirection from 'Nod *'
+D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 10\Seminar.c(192,27): warning C4024: 'dezalocareArboreDeMasini': different types for formal and actual parameter 1
+  seminar 10.vcxproj -> D:\Informatica economica A2 S2\Structuri de date - C\Acasa\seminar 10\x64\Debug\seminar 10.exe
