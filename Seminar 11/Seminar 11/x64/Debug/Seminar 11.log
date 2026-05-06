@@ -1,0 +1,6 @@
+﻿  Seminar 11.c
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 11\Seminar 11.c(37,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 11\Seminar 11.c(109,17): warning C4047: 'function': 'NodArbore *' differs in levels of indirection from 'NodArbore **'
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 11\Seminar 11.c(109,17): warning C4024: 'calculGE': different types for formal and actual parameter 1
+Seminar 11.obj : error LNK2019: unresolved external symbol calculeazaPretTotal referenced in function calculeazaPretulMasinilorUnuiSofer
+D:\Informatica economica A2 S2\Structuri de date - C\Seminar\Seminar 11\x64\Debug\Seminar 11.exe : fatal error LNK1120: 1 unresolved externals
