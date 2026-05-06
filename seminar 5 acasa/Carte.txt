@@ -1,0 +1,20 @@
+101,Mara,Ioan Slavici,320,25.5,A
+102,Ion,Liviu Rebreanu,460,30.0,B
+103,Enigma Otiliei,G. Calinescu,520,45.9,A
+104,Maitreyi,Mircea Eliade,210,18.5,C
+105,Ultima noapte de dragoste,Camil Petrescu,280,22.0,B
+106,Patul lui Procust,Camil Petrescu,310,24.0,B
+107,Baltagul,Mihail Sadoveanu,190,15.0,A
+108,Morometii,Marin Preda,600,55.0,B
+109,Cel mai iubit dintre pamanteni,Marin Preda,850,75.0,D
+110,O scrisoare pierduta,I.L. Caragiale,120,12.5,C
+111,Amintiri din copilarie,Ion Creanga,150,14.0,A
+112,La tiganci,Mircea Eliade,180,19.0,C
+113,Padurea spanzuratilor,Liviu Rebreanu,350,28.0,B
+114,Moara cu noroc,Ioan Slavici,140,16.5,A
+115,Concert din muzica de Bach,Hortensia Papadat-Bengescu,290,27.0,D
+116,Adam si Eva,Liviu Rebreanu,270,23.5,B
+117,Nunta in cer,Mircea Eliade,200,21.0,C
+118,Viata la tara,Duiliu Zamfirescu,160,17.0,A
+119,Hanul Ancutei,Mihail Sadoveanu,130,13.5,A
+120,Zodia Cancerului,Mihail Sadoveanu,340,29.0,A
